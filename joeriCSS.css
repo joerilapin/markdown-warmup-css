@@ -1,0 +1,20 @@
+
+h1 {background-color: blue;
+    text-align: center;}
+img {
+    border-style: dotted;
+    border-width: 10px;
+    border-color: blue;
+    border-radius: 5px;
+}
+
+h2 {text-underline; }
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black; text-align: center;
+}
+
+
+
